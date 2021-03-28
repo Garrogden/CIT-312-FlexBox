@@ -13,8 +13,7 @@ hole42 {
   flex-direction: row;
   justify-content: space-around;
 }
-.last-child {
+.sealers {
   align-self: flex-end;
   flex-wrap: wrap;
 }
-/*# sourceMappingURL=page4.css.map */
