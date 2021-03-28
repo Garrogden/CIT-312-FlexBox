@@ -135,7 +135,7 @@ hole42 {
   align-self: center;
   flex-wrap: wrap;
 }
-.last-child {
+.sealers {
   align-self: flex-end;
   flex-wrap: wrap;
 }
